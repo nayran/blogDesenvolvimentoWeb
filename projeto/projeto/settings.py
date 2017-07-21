@@ -25,7 +25,7 @@ SECRET_KEY = 'rfc_bezf=r=mi!h%bm90t*lg*3!y2ilj5er(*y&v*7__2&!7(*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nayran.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
